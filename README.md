@@ -15,7 +15,7 @@ sudo apt install jq bc -y
 ```
 ### git clone
 ```
-git clone https://github.com/11ppm/FluxJobMonit_Slack.git
+cd && git clone https://github.com/11ppm/FluxJobMonit_Slack.git
 cd FluxJobMonit_Slack
 chmod +x FluxJobMonit_Slack.sh
 ```
