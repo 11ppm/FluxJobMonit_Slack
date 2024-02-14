@@ -11,7 +11,7 @@ https://qiita.com/11ppm/private/c23f1bf19043fa6e3afb
 ## procedure
 ### Installing jq, bc package
 ```
-sudo apt install jq bc
+sudo apt install jq bc -y
 ```
 ### git clone
 ```
