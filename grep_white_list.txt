@@ -1,2 +1,3 @@
 NO_ERROR
 session missing or expired, please login again pg
+Failed to fetch block: RPC node returned a missing
