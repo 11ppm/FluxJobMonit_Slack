@@ -1,5 +1,5 @@
 # FluxJobMonit_Slack
-[README Japanese](https://github.com/AoiToSouma/FluxJobMonit_Slack/blob/main/README_jp.md)
+[README Japanese](https://github.com/11ppm/FluxJobMonit_Slack/blob/main/README_jp.md)
 
 Monitor the execution status of Plugin FluxMonitor and notify Slack if a problem occurs.
 This program runs as a pm2 process.
@@ -15,7 +15,7 @@ sudo apt install jq bc
 ```
 ### git clone
 ```
-git clone https://github.com/AoiToSouma/FluxJobMonit_Slack.git
+git clone https://github.com/11ppm/FluxJobMonit_Slack.git
 ```
 ```
 cd FluxJobMonit_Slack
